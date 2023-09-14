@@ -1,3 +1,7 @@
+# la-maison-jungle
+
+This project is an introduction to React, it is a small one page app simulating a plant shop, you can found the React course here: https://openclassrooms.com/fr/courses/7008001-debutez-avec-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
